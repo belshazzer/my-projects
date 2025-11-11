@@ -1,2 +1,2 @@
-# my-projects
-my journey
+Python Beginner Projects 
+My first projects as a beginner in python 
